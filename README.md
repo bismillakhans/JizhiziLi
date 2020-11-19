@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jizhizili&custom_title=Weekly%20Development%20Breakdown&line_height=17" />
 
-### Hi there <img  src="src/49JA.gif" width="30" height="30"/>
+### Hi there <img  src="src/wave.gif" width="30" height="30"/>
 
 <!-- 👋 -->
 
